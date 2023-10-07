@@ -110,7 +110,7 @@ Communication hub management: station and line crews. Management of a mobile rad
 ___
 ![Фото](/img/Foto.jpg)
 
-![Диплом переподготовки](/img/Удостоверение_о_повышении_квалификации_гос_образца.jpg)
+![Certification_of_qualification_state_model](/img/Certification_of_qualification_state_model.jpg)
 
 ![Диплом переподготовки](/img/Java_Diplom.jpg)
 
