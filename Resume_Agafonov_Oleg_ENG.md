@@ -6,21 +6,18 @@
 - Place of living: Tashkent city, Uzbekistan.
 - Cell: +998-90-043-75-08; 
 - E-mail: agafonov.oa.86@live.com
-- LinkeIn: https://www.linkedin.com/in/oleg-agafonov-512573252/
+- LinkeIn: https://www.linkedin.com/in/oleg-agafonov/
 - Telegram: @oaagafonov
 
 PURPOSE:
 
-Work in an IT company as Java developer (Junior grade).
+- I am looking for a job in the direction of IT Ц Data Engineer or Java developer at the Junior level.
 
-
-- I am at the beginning of my career path as a Java developer. 
-- I am looking for a job in the direction of IT Ц Java development at the Junior and Intern levels.
-
-- At the moment, I have completed training under the professional retraining program "Java developer" on the Netology University.
+- I have completed training under the professional retraining program "Data Engineer" on the educational platform "1T".
+- I have completed training under the professional retraining program "Java developer" on the Netology University.
 - Netology, course "First steps in JavaScript: Creating a website"
   Graduation Ц September 2022.
-- Additionally, I am undergoing training on the Stepik educational resource, a course in SQL and a course "JAVA Ц get a Black Belt!" (by Zaur Teregulov and Timur Tregulov)
+- Additionally, I have completed training on the Stepik educational resource, a course in SQL and a course "JAVA Ц get a Black Belt!" (by Zaur Teregulov and Timur Tregulov)
 - At the end of the training, a diploma project on the topic "Search Engine" was completed, which is located on the GitHub resource:
   https://github.com/LexsusRX?tab=repositories
 
@@ -29,6 +26,7 @@ Work in an IT company as Java developer (Junior grade).
   Specialization: radio engineering. Qualification: Radio communication engineer.
 
 **ADDITIONAL EDUCATION:**
+- 1T educational platform, course "Data Engineer", direction Ц Data Engineer, June-September 2023
 - Limited liability company Netology, course from University 2035.
   Specialization: Java developer. Graduation Ц June 2022.
 - Limited liability company Netology, course "First steps in JavaScript: Creating a website"
@@ -36,6 +34,22 @@ Work in an IT company as Java developer (Junior grade).
 
 
 **WORKING ACTIVITY:**
+
+from 06.09.2023 to precent Ц **1T educational platform (Remote Internship).**
+
+Position: Data Engineer
+Job responsibilities: Data Engineer in the 1T project - "Creating a vacancy aggregator for graduates of the 1T training platform".
+
+from 09.01.2023 to precent Ц **Huawei Technologies Co., Ltd (Tashkent, Uzbekistan).**
+
+Position: Integrator Engineer
+Fulfilled projects:
+> - Integration and commissioning of new 40 microwave transport network equipment and 250 SWAP base stations 
+on the operator's network in Uzbekistan
+
+Job responsibilities: the integration and running base stations and microwave transport network
+equipment of Huawei on the operator's network in Uzbekistan.
+
 
 from 18.01.2017 to 26.09.2022 - **Samara branch of LLC "T2 Mobile", (Samara, Russia).**
 
@@ -95,6 +109,8 @@ Communication hub management: station and line crews. Management of a mobile rad
 
 ___
 ![‘ото](/img/Foto.jpg)
+
+![ƒиплом переподготовки](/img/”достоверение_о_повышении_квалификации_гос_образца.jpg)
 
 ![ƒиплом переподготовки](/img/Java_Diplom.jpg)
 
