@@ -15,9 +15,6 @@ PURPOSE:
 
 - I have completed training under the professional retraining program "Data Engineer" on the educational platform "1T".
 - I have completed training under the professional retraining program "Java developer" on the Netology University.
-- Netology, course "First steps in JavaScript: Creating a website"
-  Graduation – September 2022.
-- Additionally, I have completed training on the Stepik educational resource, a course in SQL and a course "JAVA – get a Black Belt!" (by Zaur Teregulov and Timur Tregulov)
 - At the end of the training, a diploma project on the topic "Search Engine" was completed, which is located on the GitHub resource:
   https://github.com/LexsusRX?tab=repositories
 
